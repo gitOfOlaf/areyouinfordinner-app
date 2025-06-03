@@ -3,7 +3,6 @@ import Options from './Options';
 //TODO add live url
 const url = '';
 
-
 export default async (options: Options) => {
 	//TODO IF body and content type == json options.body = JSON.stringify(options.body);
 
